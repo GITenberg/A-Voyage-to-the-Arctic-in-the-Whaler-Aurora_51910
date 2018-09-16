@@ -1,0 +1,30 @@
+_repo: A-Voyage-to-the-Arctic-in-the-Whaler-Aurora_51910
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lindsay, David Moore
+    birthdate: 1862
+    gutenberg_agent_id: '46607'
+    url: http://www.gutenberg.org/2009/agents/46607
+description: ''
+gutenberg_issued: '2016-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51910'
+  lccn: '11020639'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lindsay, David Moore, 1862- -- Diaries'
+- !lcsh 'Whaling'
+- !lcsh 'Arctic regions -- Description and travel'
+- !lcc 'G'
+- !lcsh 'Whalers (Persons)'
+- !lcsh 'Lindsay, David Moore, 1862- -- Travel -- Arctic regions'
+- !lcsh 'Aurora (Ship)'
+- !lcsh 'Sealing'
+- GITenberg
+title: A Voyage to the Arctic in the Whaler Aurora
+url: http://www.gutenberg.org/ebooks/51910
