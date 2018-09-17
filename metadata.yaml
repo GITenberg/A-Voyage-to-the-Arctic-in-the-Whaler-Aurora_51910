@@ -1,5 +1,8 @@
 _repo: A-Voyage-to-the-Arctic-in-the-Whaler-Aurora_51910
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51910-h/images/cover.jpg
 creator:
   author:
     agent_name: Lindsay, David Moore
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '46607'
     url: http://www.gutenberg.org/2009/agents/46607
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51910#A-Voyage-to-the-Arctic-in-the-Whaler-Aurora
 gutenberg_issued: '2016-05-01'
 gutenberg_type: Text
 identifiers:
